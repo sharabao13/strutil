@@ -1,5 +1,5 @@
 package strutil
 
-func randStr() string {
+func RandStr() string {
 	return "Xia"
 }
